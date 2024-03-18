@@ -1,0 +1,23 @@
+.fondo{
+    width: 100%;
+    margin-top: 8px;
+    padding-bottom: 10px;
+    background-color: #ffffffe6 ;
+}
+div > h1{
+    font-size: 3.4rem;
+    color: black;
+}
+span{
+    color: yellow;
+}
+div > p{
+    font-size: 1.5rem;
+}
+.boton{
+    background-color: rgba(255, 192, 203, 0.9);
+}
+.boton:hover{
+    background-color: pink;
+    color: yellow;
+}
